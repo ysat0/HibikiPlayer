@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hibiki Player</string>
+    <string name="playNotification">Playing %1$s</string>
+    <string name="loadingProgram">Loading Programs...</string>
+    <string name="networkerror">Network problem...</string>
+    <string name="description">%1$s - No.%2$d</string>
+    <string name="descriptionstr">-%1$s-</string>
+
+</resources>

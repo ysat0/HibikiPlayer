@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">響 Radio station 非公式プレイヤー</string>
+    <string name="playNotification">%1$s  を再生中…</string><string name="networkerror">通信エラー</string><string name="description">%1$s - 第%2$d回</string><string name="loadingProgram">番組取得中...</string><string name="descriptionstr">-%1$s-</string>
+
+</resources>
